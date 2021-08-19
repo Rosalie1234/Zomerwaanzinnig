@@ -1,6 +1,6 @@
 Maak op Tois.html een link naar de image pagina. En als je met de muis boven de link staat verschijnt er "bekijk afbeeldingen";
 zorg ervoor dat mensen je kunnen e-mailen door op een link te klikken. 
-Hieronder vindt je gebrabbel. Plak dat ergens in, en zorg met een link dat mensen onmiddellijk naar de inhoud van de laatste paragraaf gaan (aangegeven met 15.)
+Hieronder vind je gebrabbel. Plak dat ergens in, en zorg met een link dat mensen onmiddellijk naar de inhoud van de laatste paragraaf gaan (aangegeven met 15.)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nec felis porttitor, volutpat diam eget, semper nisi. Nam semper, tellus in viverra commodo, metus ante mollis lectus, nec vulputate enim sem ut mauris. Proin sed nisl quis dolor fermentum consequat. Etiam at vestibulum leo. Nullam purus lorem, interdum posuere lectus vitae, elementum lacinia orci. Donec urna tortor, congue imperdiet vestibulum vitae, maximus in felis. Quisque tristique dui sed congue pretium. Curabitur ut neque non felis viverra elementum placerat id est. Nulla id iaculis tellus. Aenean vehicula risus diam, at pretium tortor consectetur tincidunt. Maecenas efficitur arcu in consectetur dignissim. Ut in tempus ipsum. Cras tincidunt mauris dapibus, convallis odio ut, condimentum ex.
 
