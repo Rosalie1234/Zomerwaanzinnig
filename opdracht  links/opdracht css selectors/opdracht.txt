@@ -1,0 +1,22 @@
+Je kan het html-bestand van de Prependers recycleren. Je mag ook andere html-gedeeltes recycleren.
+
+Definieer je css zodanig dat wanneer ik met de muis over bepaalde delen ga dat er dan een bepaalde effecten plaatsvinden, bijvoorbeeld de achtergrondkleur wijzigt. 
+Maar het mag ook iets anders zijn.
+
+Toon aan dat je voor elke dom-element individueel de stijl kan opmaken. Je hebt hiervoor de id-selector nodig, dit staat niet in de cursus, wel op w3schools.
+Pas dit toe op de elementen van een lijstje: speel met tyekstkleur, stijl, grootte, vet/onderlijnd/schuin + 2 extra effecten die je zelf mag bepalen.
+
+Laat het verschil zien tussen hyperlinks waarop geklikt in en waarop niet geklikt is.
+
+gebruik een klasse om een aantal elementen te centreren en anderen rechts uit te lijnen.
+
+Maak een knop onder de groepsleden, met een link naar een andere html-pagina groepsleden.html
+en één onder de album Top, Right, Bottom, Left met een andere link naar de html-pagina trbl.html
+De pagina's mogen leeg zijn.
+De links moeten werken.
+De knoppen moeten er visueel anders uitzien (niet enkel kleur).
+Je kan niet de tag <button> gebruiken, omdat dat niet werkt met <a>, dus je moet een kleine "box" maken en door een achtergrond te definiëren, en een kaderlijn kan je de illusie 
+van een knop maken. Definieer de css hiervoor vanuit een verschillende parent child relatie.
+Maw beide "knoppen" zijn bepaald door een <div> die elke een andere ouder heeft. Gebruik dit verschil om de css van beide pseudo-knoppen te definiëren.
+
+Bekijk altijd w3schools voor extra info.
