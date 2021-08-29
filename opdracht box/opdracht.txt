@@ -1,0 +1,2 @@
+zie afbeelding, kan je dit ookj maken, maar elke box een andere achtergrondkleur en grenslijn.
+Dit is de basismanier van werken voor elke uitlijning. (En om te begrijpen wat je css doet en niet doet)
